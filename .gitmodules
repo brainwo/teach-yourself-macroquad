@@ -1,0 +1,12 @@
+[submodule "embeddable-lang-test"]
+	path = embeddable-lang-test
+	url = https://github.com/brainwo/embeddable-lang-test.git
+[submodule "synth-test"]
+	path = synth-test
+	url = https://github.com/brainwo/synth-test
+[submodule "js-interop-test"]
+	path = js-interop-test
+	url = https://github.com/brainwo/js-interop-test
+[submodule "bezier-study"]
+	path = bezier-study
+	url = https://github.com/brainwo/bezier-study
